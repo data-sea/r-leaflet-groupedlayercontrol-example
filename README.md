@@ -3,7 +3,7 @@ This R code demonstrates adding leaflet-groupedlayercontrol that extend layer gr
 
 To output, I make use of `htmlwidgets::saveWidget()` which saves the leaflet map to HTML along with various supporting files. This makes it easy to throw the resulting map up on a web server.
 
-# Why groupedlayercontrol?
+## Why groupedlayercontrol?
 The [leaflet-groupedlayercontrol](https://github.com/ismyrnow/leaflet-groupedlayercontrol) add-on provides a nice solution for grouping overlay layers. You can:
 - Create exclusive group (handy for only showing just one choropleth overlay at a time,
 - Create multiple grouped layers. 
@@ -11,10 +11,10 @@ The [leaflet-groupedlayercontrol](https://github.com/ismyrnow/leaflet-groupedlay
 - Able to toggle all group layers on or off with a single checkbox click. 
 - Able to toggle individual layers on or off.
 
-# Screenshots
-<div> Closeup of the grouped layer control menu</div>
+## Screenshots
+<div> Closeup of the grouped layer control menu in this example map.</div>
   <img src="https://github.com/data-sea/r-leaflet-groupedlayercontrol-example/blob/d676f46c9fc89bb764c6f875e5ff499ba83baebc/images/screenshot1.PNG"></img>
 
-<div> Screenshot showing part of map and layers selected</div>
+<div> Screenshot showing part of map and layers selected.</div>
   <img src="https://github.com/data-sea/r-leaflet-groupedlayercontrol-example/blob/d676f46c9fc89bb764c6f875e5ff499ba83baebc/images/screenshot2.PNG"></img>
 
