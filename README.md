@@ -1,5 +1,7 @@
 # r-leaflet-groupedlayercontrol-example
-This R code demonstrates adding leaflet-groupedlayercontrol that extend layer grouping and selection, allowing a ton of flexibiliy in determining what layers are shown. Have a look at the output folder which shows the result of running the R script. You should be able to test out the map without running any code by opening the html file YOUR_MAP.html within the output folder. 
+This R code demonstrates adding leaflet-groupedlayercontrol that extend layer grouping and selection. This provides a ton of flexibility in determining which layers are shown. Have a look at the output folder if you would like to view the interactive map  in a browser without running code. 
+
+To output, I make use of `htmlwidgets::saveWidget()` which saves the leaflet map to HTML along with various supporting files. This makes it easy to throw the resulting map up on a web server.
 
 # Why groupedlayercontrol?
 The [leaflet-groupedlayercontrol](https://github.com/ismyrnow/leaflet-groupedlayercontrol) add-on provides a nice solution for grouping overlay layers. You can:
