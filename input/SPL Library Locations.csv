@@ -1,0 +1,28 @@
+Branch_3ltr,Branch_3CAP,Branch_Full_Name,Address,Zip,Latitude,Longitude,ZipPopulation,Region,BranchString,district,Type
+bal,BAL,Ballard,5614 22ND AV NW,98107,47.669874,-122.384386,"23,206",MCW,"'BAL','FRE','MAG','QNA'",6,Library Location
+bea,BEA,Beacon Hill,2821 BEACON AV S,98144,47.577994,-122.311395,"29,413",SER,"'BEA','COL','IDC','NHY','RBE'",2,Library Location
+bro,BRO,Broadview,12755 GREENWOOD AV N,98133,47.723004,-122.356211,"47,099",NWR,"'BRO','GLK','GWD','WAL'",5,Library Location
+cap,CAP,Capital Hill,425 HARVARD AV E,98102,47.622888,-122.322335,"23,096",MCE,"'CAP','DTH','MGM','MON'",3,Library Location
+cen,CEN,Central Library,1000 4TH AV,98104,47.6066,-122.332984,"13,829",DWN,'CEN',7,Library Location
+col,COL,Columbia,4721 RAINIER AV S,98118,47.559901,-122.286991,"45,221",SER,"'BEA','COL','IDC','NHY','RBE'",2,Library Location
+dlr,DLR,Delridge,5423 DELRIDGE WAY SW,98106,47.553086,-122.363262,"24,270",SWR,"'DLR','HIP','SPA','SWT','WTS'",1,Library Location
+dth,DTH,Douglass-Truth,2300 E YESLER WAY,98122,47.601915,-122.301876,"32,823",MCE,"'CAP','DTH','MGM','MON'",3,Library Location
+fre,FRE,Fremont,731 N 35TH ST,98103,47.650068,-122.3484,"48,882",MCW,"'BAL','FRE','MAG','QNA'",6,Library Location
+glk,GLK,Green Lake,7364 E GREEN LAKE DR N,98115,47.681551,-122.326817,"48,486",NWR,"'BRO','GLK','GWD','WAL'",6,Library Location
+gwd,GWD,Greenwood,8016 GREENWOOD AVE N,98103,47.687459,-122.35475,"48,882",NWR,"'BRO','GLK','GWD','WAL'",6,Library Location
+hip,HIP,High Point,3411 SW RAYMOND ST,98126,47.54807,-122.375787,"22,993",SWR,"'DLR','HIP','SPA','SWT','WTS'",1,Library Location
+idc,IDC,IDC,713 8TH AV S,98104,47.596233,-122.322784,"13,829",SER,"'BEA','COL','IDC','NHY','RBE'",2,Library Location
+lcy,LCY,Lake City,12501 28TH AV NE,98125,47.719819,-122.298173,"39,708",NER,"'LCY','NET','NGA','UNI'",5,Library Location
+mag,MAG,Magnolia,2801 34TH AV W,98199,47.645219,-122.401332,"32,823",MCW,"'BAL','FRE','MAG','QNA'",3,Library Location
+mgm,MGM,Madrona,1134 33RD AV,98122,47.612695,-122.289976,"20,816",MCE,"'CAP','DTH','MGM','MON'",7,Library Location
+mon,MON,Montlake,2401 24TH AV E,98112,47.640488,-122.302389,"21,391",MCE,"'CAP','DTH','MGM','MON'",3,Library Location
+net,NET,Northeast,6801 35TH AV NE,98115,47.677861,-122.290717,"48,486",NER,"'LCY','NET','NGA','UNI'",4,Library Location
+nga,NGA,Northgate,10548 FIFTH AV NE,98125,47.706079,-122.322875,"39,708",NER,"'LCY','NET','NGA','UNI'",5,Library Location
+nhy,NHY,NewHolly,7058 32ND AV S,98118,47.539208,-122.290419,"45,221",SER,"'BEA','COL','IDC','NHY','RBE'",2,Library Location
+qna,QNA,Queen Anne,400 W GARFIELD ST,98119,47.633814,-122.362665,"23,842",MCW,"'BAL','FRE','MAG','QNA'",7,Library Location
+rbe,RBE,Rainier Beach,9125 RAINIER AV S,98118,47.521479,-122.270661,"45,221",SER,"'BEA','COL','IDC','NHY','RBE'",2,Library Location
+spa,SPA,South Park,8604 8TH AV S,98108,47.526216,-122.322597,"23,846",SWR,"'DLR','HIP','SPA','SWT','WTS'",1,Library Location
+swt,SWT,Southwest,9010 35TH AV SW,98126,47.522511,-122.376393,"22,993",SWR,"'DLR','HIP','SPA','SWT','WTS'",1,Library Location
+uni,UNI,University,5009 ROOSEVELT WY NE,98105,47.66525,-122.317912,"43,447",NER,"'LCY','NET','NGA','UNI'",4,Library Location
+wal,WAL,Wallingford,1501 N 45TH ST,98103,47.661243,-122.338924,"48,882",NWR,"'BRO','GLK','GWD','WAL'",4,Library Location
+wts,WTS,West Seattle,2306 42ND AV SW,98116,47.582691,-122.384767,"23,228",SWR,"'DLR','HIP','SPA','SWT','WTS'",1,Library Location
